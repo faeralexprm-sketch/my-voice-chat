@@ -1,0 +1,8 @@
+{
+  "name": "PRM Nexus: Agentic Voice Library",
+  "description": "An autonomous voice repository for agentic systems. Features AI-powered casting, biometric voice cloning, and high-fidelity neural synthesis. Optimized for accessibility and professional workflows.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
